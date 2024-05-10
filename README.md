@@ -13,3 +13,6 @@
 * Dùng cho đặc tả luồng xử lý: [BPMN (Business Process Modeling Notation) và sự lợi hại của nó](https://thinhnotes.com/chuyen-nghe-ba/bpmn-va-su-loi-hai-cua-no/)
 
 **Ảo hóa và Cloud**
+
+**Javascript**
+* Json Editor để cấu hình nhah [json-editor/json-editor](https://github.com/json-editor/json-editor)
