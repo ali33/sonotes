@@ -5,7 +5,11 @@
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
   * [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp)
-
+* Lập lịch
+  * QuartzNet
+    * [jlucansky/Quartzmin](https://github.com/jlucansky/Quartzmin)
+    * [adometry/QuartzNetManager](https://github.com/adometry/QuartzNetManager)
+    * [mausch/QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole)
 
 **Quy trình**
 * Phân tích yêu cầu dự án [Tuyển tập các bài về BA](https://thinhnotes.com/tuyen-tap-cac-notes-ve-business-analyst/)
@@ -20,3 +24,12 @@
 
 **Bản đồ**
 * [osrm-backend-docker](https://github.com/peter-evans/osrm-backend-docker): Triển khai bản đồ số bằng docker | [Ví dụ trên openstreetmap](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=21.03174%2C105.78387%3B21.05582%2C105.61154#map=13/21.0590/105.6979) | Hoặc [Monogramm/docker-osrm-backend](https://github.com/Monogramm/docker-osrm-backend)
+
+**UI/UX**
+* [AdminLTE](https://adminlte.io/)
+* [Semantic-UI](https://semantic-ui.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* Tailwind CSS
+* Foundation
+* Bulma
+* Skeleton
