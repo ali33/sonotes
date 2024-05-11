@@ -8,6 +8,8 @@
 * Lập lịch
   * QuartzNet
     * [jlucansky/Quartzmin](https://github.com/jlucansky/Quartzmin)
+      * [maikebing/SilkierQuartz](https://github.com/maikebing/SilkierQuartz) fork từ Quartzmin
+      * [mandlar/Quartzmon](https://github.com/mandlar/Quartzmon) fork từ Quartzmin
     * [adometry/QuartzNetManager](https://github.com/adometry/QuartzNetManager)
     * [mausch/QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole)
 
