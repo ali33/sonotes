@@ -44,9 +44,11 @@
 **Ecommerce**
 * [smartstore/Smartstore](https://github.com/smartstore/Smartstore): Shop
 * [DallasBuyer/awesome-dynamic-pricing](https://github.com/DallasBuyer/awesome-dynamic-pricing): Các bài học thuật về quản lý giá
+* [dynamic repricing](https://azure.github.io/Cloud-Native/60DaysOfIA/dynamic-repricing-of-products-using-intelligent-apps-part-1): Điều chỉnh giá bằng AI
 
 **Metrics/KPI/OKR**: Tổng hợp các chỉ số cần đo trong các lĩnh vực khác nhau
 * [sales-metrics](https://www.yesware.com/blog/sales-metrics/): Thước đo bán hàng
 * [abolotnov/MetricsKeeper](https://github.com/abolotnov/MetricsKeeper/): Lưu giữ các số đo
+* [shopyourway/metrics](https://github.com/shopyourway/metrics): Lưu giữ các số đo
 * [OKR](https://github.com/joelparkerhenderson/objectives-and-key-results): Quản trị mục tiêu
 * [RACI Matrix](https://github.com/joelparkerhenderson/responsibility-assignment-matrix): Ma trận trách nhiệm
