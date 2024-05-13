@@ -22,6 +22,7 @@
 * Phân tích yêu cầu dự án [Tuyển tập các bài về BA](https://thinhnotes.com/tuyen-tap-cac-notes-ve-business-analyst/)
 * Lấy yêu cầu và thống nhất yêu cầu [FS - **F**unctional **S**pecification - Đặc tả chức năng](https://thinhnotes.com/chuyen-nghe-ba/tan-man-ve-fs/)
 * Dùng cho đặc tả luồng xử lý: [BPMN (Business Process Modeling Notation) và sự lợi hại của nó](https://thinhnotes.com/chuyen-nghe-ba/bpmn-va-su-loi-hai-cua-no/)
+* [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline): Tập hợp Frameworks và Thư viện về Workflow
 
 **Ảo hóa và Cloud**
 
