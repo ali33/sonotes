@@ -14,6 +14,7 @@
     * [mausch/QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole)
 
 **Quy trình**
+* [besley/Slickflow](https://github.com/besley/Slickflow): Quản lý & Edit quy trình BPMN
 * Phân tích yêu cầu dự án [Tuyển tập các bài về BA](https://thinhnotes.com/tuyen-tap-cac-notes-ve-business-analyst/)
 * Lấy yêu cầu và thống nhất yêu cầu [FS - **F**unctional **S**pecification - Đặc tả chức năng](https://thinhnotes.com/chuyen-nghe-ba/tan-man-ve-fs/)
 * Dùng cho đặc tả luồng xử lý: [BPMN (Business Process Modeling Notation) và sự lợi hại của nó](https://thinhnotes.com/chuyen-nghe-ba/bpmn-va-su-loi-hai-cua-no/)
@@ -37,4 +38,5 @@
 * Skeleton
 
 **Ecommerce**
-* [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
+* [smartstore/Smartstore](https://github.com/smartstore/Smartstore): Shop
+* [DallasBuyer/awesome-dynamic-pricing](https://github.com/DallasBuyer/awesome-dynamic-pricing): Các bài học thuật về quản lý giá
