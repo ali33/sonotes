@@ -44,3 +44,7 @@
 **Ecommerce**
 * [smartstore/Smartstore](https://github.com/smartstore/Smartstore): Shop
 * [DallasBuyer/awesome-dynamic-pricing](https://github.com/DallasBuyer/awesome-dynamic-pricing): Các bài học thuật về quản lý giá
+
+**Metrics**: Tổng hợp các chỉ số cần đo trong các lĩnh vực khác nhau
+* [sales-metrics](https://www.yesware.com/blog/sales-metrics/): Thước đo bán hàng
+* [abolotnov/MetricsKeeper](https://github.com/abolotnov/MetricsKeeper/): Lưu giữ các số đo
