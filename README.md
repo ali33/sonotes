@@ -51,4 +51,5 @@
 * [abolotnov/MetricsKeeper](https://github.com/abolotnov/MetricsKeeper/): Lưu giữ các số đo
 * [shopyourway/metrics](https://github.com/shopyourway/metrics): Lưu giữ các số đo
 * [OKR](https://github.com/joelparkerhenderson/objectives-and-key-results): Quản trị mục tiêu
+* [goal-examples](https://hypercontext.com/goal-examples): Các ví dụ về OKR 
 * [RACI Matrix](https://github.com/joelparkerhenderson/responsibility-assignment-matrix): Ma trận trách nhiệm
