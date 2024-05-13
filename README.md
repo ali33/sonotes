@@ -14,6 +14,7 @@
     * [mausch/QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole)
 
 **Quy trình**
+* [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core): Workflow Core is a light weight embeddable workflow engine targeting .NET Standard
 * [besley/Slickflow](https://github.com/besley/Slickflow): Quản lý & Edit quy trình BPMN
 * Phân tích yêu cầu dự án [Tuyển tập các bài về BA](https://thinhnotes.com/tuyen-tap-cac-notes-ve-business-analyst/)
 * Lấy yêu cầu và thống nhất yêu cầu [FS - **F**unctional **S**pecification - Đặc tả chức năng](https://thinhnotes.com/chuyen-nghe-ba/tan-man-ve-fs/)
