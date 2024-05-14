@@ -56,8 +56,18 @@
 * [RACI Matrix](https://github.com/joelparkerhenderson/responsibility-assignment-matrix): Ma trận trách nhiệm
 
 **Phân tích biểu đồ**
+* [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis/)
+* [fslaborg/Deedle](https://github.com/fslaborg/Deedle): Dữ liệu Frame
 * [AlexWan/OsEngine](https://github.com/AlexWan/OsEngine)
 * [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp)
 * [karlwancl/Trady](https://github.com/karlwancl/Trady)
 * [worldexplorer/SquareOne](https://github.com/worldexplorer/SquareOne)
 * [sthewissen/Mynt](https://github.com/sthewissen/Mynt)
+
+**Big Data/Cloud**
+* [orleans](https://github.com/dotnet/orleans)
+
+**Notebooks**
+* [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
+* [Jupyter Notebooks](https://jupyter.org/)
+
