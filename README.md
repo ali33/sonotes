@@ -56,8 +56,10 @@
 * [RACI Matrix](https://github.com/joelparkerhenderson/responsibility-assignment-matrix): Ma trận trách nhiệm
 
 **Phân tích biểu đồ**
-* [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis/)
-* [fslaborg/Deedle](https://github.com/fslaborg/Deedle): Dữ liệu Frame
+* Xử lý dữ liệu
+  * [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis/)
+  * [fslaborg/Deedle](https://github.com/fslaborg/Deedle): Dữ liệu Frame
+  * [SciSharp/Pandas.NET](https://github.com/SciSharp/Pandas.NET)
 * [AlexWan/OsEngine](https://github.com/AlexWan/OsEngine)
 * [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp)
 * [karlwancl/Trady](https://github.com/karlwancl/Trady)
