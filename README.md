@@ -54,3 +54,10 @@
 * [OKR](https://github.com/joelparkerhenderson/objectives-and-key-results): Quản trị mục tiêu
 * [goal-examples](https://hypercontext.com/goal-examples): Các ví dụ về OKR 
 * [RACI Matrix](https://github.com/joelparkerhenderson/responsibility-assignment-matrix): Ma trận trách nhiệm
+
+**Phân tích biểu đồ**
+* [AlexWan/OsEngine](https://github.com/AlexWan/OsEngine)
+* [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp)
+* [karlwancl/Trady](https://github.com/karlwancl/Trady)
+* [worldexplorer/SquareOne](https://github.com/worldexplorer/SquareOne)
+* [sthewissen/Mynt](https://github.com/sthewissen/Mynt)
