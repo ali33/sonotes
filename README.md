@@ -73,3 +73,9 @@
 * [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
 * [Jupyter Notebooks](https://jupyter.org/)
 
+**Marketing**
+* Email marketing
+  * [ActiveCampaign](https://www.activecampaign.com/pricing) & [gandhiashishp/ActiveCampaign.Net](https://github.com/gandhiashishp/ActiveCampaign.Net)
+ 
+**Linh tinh**
+* [html-preview.github.io](https://html-preview.github.io/): View HTML trực tiếp trên Github
