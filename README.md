@@ -76,6 +76,9 @@
 **Marketing**
 * Email marketing
   * [ActiveCampaign](https://www.activecampaign.com/pricing) & [gandhiashishp/ActiveCampaign.Net](https://github.com/gandhiashishp/ActiveCampaign.Net)
- 
+    
+**ML**
+* [Forecasting-Sales](https://github.com/dotnet/machinelearning-samples/tree/main/samples/csharp/end-to-end-apps/Forecasting-Sales): Dự đoán doanh số
+  
 **Linh tinh**
 * [html-preview.github.io](https://html-preview.github.io/): View HTML trực tiếp trên Github
