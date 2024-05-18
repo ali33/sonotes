@@ -42,6 +42,7 @@
 * Bulma
 * Skeleton
 * [FixedHeader for DataTables](https://www.ihbc.org.uk/consultationsdb_new/extensions/FixedHeader/examples/top_left_right.html)
+* [Amphiluke/handy-scroll](https://github.com/Amphiluke/handy-scroll)
 
 **Ecommerce**
 * [smartstore/Smartstore](https://github.com/smartstore/Smartstore): Shop
