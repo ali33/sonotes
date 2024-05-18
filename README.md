@@ -41,6 +41,7 @@
 * Foundation
 * Bulma
 * Skeleton
+* [FixedHeader for DataTables](https://www.ihbc.org.uk/consultationsdb_new/extensions/FixedHeader/examples/top_left_right.html)
 
 **Ecommerce**
 * [smartstore/Smartstore](https://github.com/smartstore/Smartstore): Shop
