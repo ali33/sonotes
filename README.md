@@ -14,9 +14,11 @@ __Thư viện .NET__
     * [mausch/QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole)
   * Backtest
     * [jonblankenship/stratysis](https://github.com/jonblankenship/stratysis/): Backtest chiến lược
-* OpenID
-  * [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer): SimpleIdServer is an open source framework enabling the support of OPENID, OAUTH2.0, SCIM2.0, UMA2.0, FAPI and CIBA
-  * Openiddct
+* Authenticate
+  * [mihirdilip/aspnetcore-authentication-basic](https://github.com/mihirdilip/aspnetcore-authentication-basic/)
+  * OpenID
+    * [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer): SimpleIdServer is an open source framework enabling the support of OPENID, OAUTH2.0, SCIM2.0, UMA2.0, FAPI and CIBA
+    * Openiddct
 * Build Script
   * [CSScript](https://github.com/oleg-shilo/cs-script/): Công cụ build CS file 
 __Quy trình__
