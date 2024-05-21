@@ -31,6 +31,7 @@ __Javascript__
 * Thử viện Validate [imask.js](https://imask.js.org/)
 * Xây dựng biểu thức Logic
   * [exp.js](https://exp.js.org/)
+  * [chrisjpowers/business-rules](https://github.com/chrisjpowers/business-rules)
   * [Ahnfelt/rulebuilder/](https://github.com/Ahnfelt/rulebuilder/)
   * [emerbrito/ng-expression-builder](https://github.com/emerbrito/ng-expression-builder)
 
