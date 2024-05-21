@@ -12,6 +12,8 @@ __Thư viện .NET__
       * [mandlar/Quartzmon](https://github.com/mandlar/Quartzmon) fork từ Quartzmin
     * [adometry/QuartzNetManager](https://github.com/adometry/QuartzNetManager)
     * [mausch/QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole)
+  * Backtest
+    * [jonblankenship/stratysis](https://github.com/jonblankenship/stratysis/): Backtest chiến lược
 * OpenID
   * [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer): SimpleIdServer is an open source framework enabling the support of OPENID, OAUTH2.0, SCIM2.0, UMA2.0, FAPI and CIBA
   * Openiddct
