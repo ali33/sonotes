@@ -6,6 +6,7 @@ __Thư viện .NET__
   * [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp)
 * Lập lịch
+  * [usausa/hosted-service-extension](https://github.com/usausa/hosted-service-extension  )
   * QuartzNet
     * [jlucansky/Quartzmin](https://github.com/jlucansky/Quartzmin)
       * [maikebing/SilkierQuartz](https://github.com/maikebing/SilkierQuartz) fork từ Quartzmin
