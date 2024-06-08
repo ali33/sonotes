@@ -27,6 +27,7 @@ __Quy trình__
 * [besley/Slickflow](https://github.com/besley/Slickflow): Quản lý & Edit quy trình BPMN
 * [Camunda.com](https://camunda.com/): DMN Platform
 * [bpmn.io/toolkit/dmn-js/](https://bpmn.io/toolkit/dmn-js/): DMN Editor
+* [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue): Bộ Editor lược đồ online
 * Phân tích yêu cầu dự án [Tuyển tập các bài về BA](https://thinhnotes.com/tuyen-tap-cac-notes-ve-business-analyst/)
 * Lấy yêu cầu và thống nhất yêu cầu [FS - __F__unctional __S__pecification - Đặc tả chức năng](https://thinhnotes.com/chuyen-nghe-ba/tan-man-ve-fs/)
 * Dùng cho đặc tả luồng xử lý: [BPMN (Business Process Modeling Notation) và sự lợi hại của nó](https://thinhnotes.com/chuyen-nghe-ba/bpmn-va-su-loi-hai-cua-no/)
