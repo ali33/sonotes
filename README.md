@@ -109,3 +109,6 @@ __Data Mining__
 
 __Themes__
 * [amir-ko/alibaba-template](https://github.com/amir-ko/alibaba-template)
+
+__Nguyên tắc quản lý phiên bản__
+* [https://semver.org/lang/vi/](https://semver.org/lang/vi/)
