@@ -47,6 +47,7 @@ __Javascript__
   * [emerbrito/ng-expression-builder](https://github.com/emerbrito/ng-expression-builder)
 * Gantt Chart:
   * [https://www.angular-gantt.com/demo/](https://www.angular-gantt.com/demo/): Thư viện Gantt chart cho AngularJS
+  * [https://github.com/robicch/jQueryGantt](https://github.com/robicch/jQueryGantt): Thư viện Gantt chart cho Jquery
 __Bản đồ__
 * [osrm-backend-docker](https://github.com/peter-evans/osrm-backend-docker): Triển khai bản đồ số bằng docker | [Ví dụ trên openstreetmap](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=21.03174%2C105.78387%3B21.05582%2C105.61154#map=13/21.0590/105.6979) | Hoặc [Monogramm/docker-osrm-backend](https://github.com/Monogramm/docker-osrm-backend)
 
