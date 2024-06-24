@@ -1,6 +1,7 @@
 # Ghi chú của Sơn
 __Thư viện .NET__
 * Phát triển hệ thống báo cáo nhanh và bình dân hóa: [FastReport](https://github.com/FastReports/FastReport)
+* [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio): Pluggable foundation blocks for building loosely coupled distributed apps.
 * [SergiySeletsky/Unified](https://github.com/SergiySeletsky/Unified): Sinh chuỗi ID 64 bit
 * [sharding-core](https://xuejmnet.github.io/sharding-core-doc/en/guide/params-confg/): Phân mảnh dữ liệu
 * Tập hợp các thư viện hay cho dotNET
