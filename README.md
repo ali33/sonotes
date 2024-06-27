@@ -4,6 +4,7 @@ __Thư viện .NET__
 * [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio): Pluggable foundation blocks for building loosely coupled distributed apps.
 * [SergiySeletsky/Unified](https://github.com/SergiySeletsky/Unified): Sinh chuỗi ID 64 bit
 * [sharding-core](https://xuejmnet.github.io/sharding-core-doc/en/guide/params-confg/): Phân mảnh dữ liệu
+* [Fody/MethodTimer](https://github.com/Fody/MethodTimer): Đo thời gian thực thi của Method
 * Tập hợp các thư viện hay cho dotNET
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
   * [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
