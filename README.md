@@ -5,6 +5,7 @@ __Thư viện .NET__
 * [SergiySeletsky/Unified](https://github.com/SergiySeletsky/Unified): Sinh chuỗi ID 64 bit
 * [sharding-core](https://xuejmnet.github.io/sharding-core-doc/en/guide/params-confg/): Phân mảnh dữ liệu
 * [Fody/MethodTimer](https://github.com/Fody/MethodTimer): Đo thời gian thực thi của Method
+* [dotnetchina](https://gitee.com/dotnetchina): Một số thư viện dotNET của China
 * Tập hợp các thư viện hay cho dotNET
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
   * [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
