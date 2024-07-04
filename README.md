@@ -124,3 +124,43 @@ __Themes__
 
 __Nguyên tắc quản lý phiên bản__
 * [https://semver.org/lang/vi/](https://semver.org/lang/vi/)
+
+# Thống kê các CMS cho ASP.NET
+There are plenty of such equivalents, and more are emerging every day:
+
+here are list of cms systems from [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") (legacy aspx wenforms engine):
+
+*   [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation "github.com") - A web CMS that focus on UX and adaptability
+*   [mojoPortal](https://github.com/i7media/mojoportal "github.com") \- MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net")
+*   [N2CMS](https://github.com/n2cms/n2cms "github.com") - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
+*   [Orchard](https://github.com/OrchardCMS/Orchard "github.com") \- Free, open source, community-focused project aimed at delivering applications and reusable components on the [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") platform
+*   [Piranha CMS](https://github.com/PiranhaCMS/Piranha "github.com") - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. [https://piranhacms.org](https://piranhacms.org/ "piranhacms.org")
+*   [Umbraco](https://github.com/umbraco/Umbraco-CMS "github.com") - Umbraco is a free open source Content Management System built on the [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") platform
+*   [BetterCMS](http://www.bettercms.com/ "www.bettercms.com") - Open Source .NET Intuitive User Interface for Developer and Publisher
+*   [DotNetNuke](https://www.dnnsoftware.com/community/download "www.dnnsoftware.com") - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
+*   [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET "github.com") - Simple but full featured [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") blog
+
+The same are upgraded to newer net core version, but again here is a list for those who have continued with time:
+
+*   [Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core "github.com") - Awesome CMS Core is an open source CMS built using [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core & ReactJS with module separation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Background Job, Message Queue.
+*   [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core "github.com") - [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") applications to provide common blogging functionality.
+*   [Cofoundry](https://github.com/cofoundry-cms/cofoundry "github.com") - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
+*   [CoreWiki](https://github.com/csharpfritz/CoreWiki "github.com") - Simple [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core wiki that we are working on during live coding streams.
+*   [dasblog-core](https://github.com/poppastring/dasblog-core "github.com") - The original DasBlog reimagined with [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core
+*   [Lynicon](https://github.com/jamesej/lyniconanc "github.com") - O/S [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
+*   [Miniblog](https://github.com/madskristensen/Miniblog.Core "github.com") - An [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core blogging engine.
+*   [Mixcore CMS](https://github.com/mixcore/mix.core "github.com") - Open Source CMS powered by DotNet Core. Mixcore CMS is a scalable, open platform for web content management and digital experiences. Mixcore CMS provides deep capabilities and endless flexibility on the web.
+*   [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS "github.com") - An Open source [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core 2.0 CMS. It currently supports MySQL and planned to implement MSSQL, SQLite and PostgreSQL. Also it is a modular CMS supports theme, skin, custom layout, widgets, multiple language (En, BN).
+*   [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore "github.com") - Open Source Content Management System built with [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core on top of a Modular and Extensible Application Framework.
+*   [Piranha CMS](https://github.com/piranhacms/piranha.core "github.com") - A Lightweight & Unobtrusive Open Source CMS for [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core and Entity Framework Core.
+*   [Platformus](https://github.com/Platformus "github.com") - Free, open source and cross-platform CMS based on [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core 1.0 and ExtCore framework.
+*   [SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent "github.com") - Simple, yet flexible content and blog engine for [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core that can work with or without a database.
+*   [Squidex](https://github.com/Squidex/squidex "github.com") - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
+*   [Swastika I/O Core CMS](https://github.com/Swastika-IO/Swastika-IO-Core "github.com") - Open source [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core 2.x CMS. It currently supports MS SQL and planned to implement MSSQL, SQLite in the near future. It has many built-in features out of the box like multilanguage support, theme, template...
+*   [Weapsy](https://github.com/Weapsy/Weapsy "github.com") - Open source [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
+*   [Wyam](https://github.com/Wyamio/Wyam "github.com") - Modular static content and static site generator.
+*   [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core "github.com") - Visual design, build site onlie by drag and drop.
+
+Hope you find this info useful. as an experienced .net developer i can assure you that these products based on c#/net core provides much better security and performance then wordpress any time.
+
+Thanks for A2A
