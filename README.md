@@ -25,6 +25,9 @@ __Thư viện .NET__
   * OpenID
     * [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer): SimpleIdServer is an open source framework enabling the support of OPENID, OAUTH2.0, SCIM2.0, UMA2.0, FAPI and CIBA
     * Openiddct
+* Modular:
+  * [thiennn/trymodular](https://github.com/thiennn/trymodular): Modular Web Application with ASP.NET Core 
+  * [ExtCore/ExtCore](https://github.com/ExtCore/ExtCore):ExtCore is free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core
 * Build Script
   * [CSScript](https://github.com/oleg-shilo/cs-script/): Công cụ build CS file
 * Shipping & Delivery
