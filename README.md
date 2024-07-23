@@ -10,6 +10,7 @@ __Thư viện .NET__
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
   * [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp)
+  * [iaspnetcore/SeoInNet](https://github.com/iaspnetcore/SeoInNet)
 * Lập lịch
   * [usausa/hosted-service-extension](https://github.com/usausa/hosted-service-extension  )
   * QuartzNet
