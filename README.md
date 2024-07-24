@@ -121,7 +121,7 @@ __Linh tinh__
 
 __Data Mining__
 * [Etl.Net](https://paillave.github.io/Etl.Net/)
-
+* [Apache Superset](https://medium.com/free-or-open-source-software/how-to-install-apache-superset-in-windows-subsystem-for-linux-ubuntu-20-04-os-f198eafd11fa) 
 
 __Themes__
 * [amir-ko/alibaba-template](https://github.com/amir-ko/alibaba-template)
