@@ -106,6 +106,8 @@ __Notebooks__
 * [Jupyter Notebooks](https://jupyter.org/)
 
 __Marketing__
+* [google-marketing-solutions/feedx](https://github.com/google-marketing-solutions/feedx): Thử nghiệm google feed 
+* [google-marketing-solutions/feedgen](https://github.com/google-marketing-solutions/feedgen): Tạo feed
 * Email marketing
   * [ActiveCampaign](https://www.activecampaign.com/pricing) & [gandhiashishp/ActiveCampaign.Net](https://github.com/gandhiashishp/ActiveCampaign.Net)
     
