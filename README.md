@@ -131,6 +131,9 @@ __Themes__
 __Nguyên tắc quản lý phiên bản__
 * [https://semver.org/lang/vi/](https://semver.org/lang/vi/)
 
+__Git__
+* [github/gitignore](https://github.com/github/gitignore/tree/main): Tổng hợp các mẫu ignore cho Github
+
 # Thống kê các CMS cho ASP.NET
 There are plenty of such equivalents, and more are emerging every day:
 
