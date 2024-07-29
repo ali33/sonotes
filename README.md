@@ -11,6 +11,7 @@ __Thư viện .NET__
   * [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp)
   * [iaspnetcore/SeoInNet](https://github.com/iaspnetcore/SeoInNet)
+  * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * Lập lịch
   * [usausa/hosted-service-extension](https://github.com/usausa/hosted-service-extension  )
   * QuartzNet
@@ -100,6 +101,7 @@ __Phân tích biểu đồ__
 
 __Big Data/Cloud__
 * [orleans](https://github.com/dotnet/orleans)
+* [Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan): Quản lý tài liệu bằng .NET
 
 __Notebooks__
 * [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
