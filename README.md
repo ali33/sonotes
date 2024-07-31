@@ -102,7 +102,8 @@ __Phân tích biểu đồ__
 __Big Data/Cloud__
 * [orleans](https://github.com/dotnet/orleans)
 * [Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan): Quản lý tài liệu bằng .NET
-
+* [zarusz/SlimCluster](https://github.com/zarusz/SlimCluster): Phát triển cụm máy chủ
+* [cluster/raft](https://dotnet.github.io/dotNext/features/cluster/raft.html)
 __Notebooks__
 * [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
 * [Jupyter Notebooks](https://jupyter.org/)
