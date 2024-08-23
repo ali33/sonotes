@@ -22,6 +22,9 @@ __Thư viện .NET__
     * [mausch/QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole)
   * Backtest
     * [jonblankenship/stratysis](https://github.com/jonblankenship/stratysis/): Backtest chiến lược
+* API Gateway:
+    * YARP: [https://microsoft.github.io/reverse-proxy/articles/getting-started.html](https://microsoft.github.io/reverse-proxy/articles/getting-started.html)
+    * Ocelot: [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
 * Authenticate
   * [mihirdilip/aspnetcore-authentication-basic](https://github.com/mihirdilip/aspnetcore-authentication-basic/)
   * OpenID
