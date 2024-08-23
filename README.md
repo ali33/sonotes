@@ -37,6 +37,9 @@ __Thư viện .NET__
   * [CSScript](https://github.com/oleg-shilo/cs-script/): Công cụ build CS file
 * Shipping & Delivery
   * [Spoleto.Delivery](https://github.com/spoleto-software/Spoleto.Delivery): Giao diện mẫu lập trình cho dịch vụ vận chuyển
+* Config:
+  * [TOML](https://toml.io/en/): A config file format for humans.
+
 __Quy trình__
 * [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core): Workflow Core is a light weight embeddable workflow engine targeting .NET Standard
 * [besley/Slickflow](https://github.com/besley/Slickflow): Quản lý & Edit quy trình BPMN
