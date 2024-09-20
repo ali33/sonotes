@@ -24,7 +24,7 @@ __Thư viện .NET__
   * Backtest
     * [jonblankenship/stratysis](https://github.com/jonblankenship/stratysis/): Backtest chiến lược
 * Optimize
-    * [https://github.com/mjebrahimi/SeoTags/](mjebrahimi/SeoTags/)
+    * [mjebrahimi/SeoTags/](https://github.com/mjebrahimi/SeoTags/)
 * API Gateway:
     * YARP: [https://microsoft.github.io/reverse-proxy/articles/getting-started.html](https://microsoft.github.io/reverse-proxy/articles/getting-started.html)
     * Ocelot: [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
