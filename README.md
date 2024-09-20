@@ -28,6 +28,7 @@ __Thư viện .NET__
       * [mjebrahimi/SeoTags](https://github.com/mjebrahimi/SeoTags)
       * [sebnilsson/AspNetSeo](https://github.com/sebnilsson/AspNetSeo)
       * [nazuke/SEOMacroscope](https://github.com/nazuke/SEOMacroscope): Scan & Audit tool
+      * [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools): Awesome Seo Tools
 * API Gateway:
     * YARP: [https://microsoft.github.io/reverse-proxy/articles/getting-started.html](https://microsoft.github.io/reverse-proxy/articles/getting-started.html)
     * Ocelot: [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
