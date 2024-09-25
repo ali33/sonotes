@@ -14,6 +14,7 @@ __Thư viện .NET__
   * [iaspnetcore/SeoInNet](https://github.com/iaspnetcore/SeoInNet)
   * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
   * [top-asp-dotnet-core-open-source-apps](https://www.syncfusion.com/blogs/post/top-asp-dotnet-core-open-source-apps)
+  * [Orchard Core](https://docs.orchardcore.net/en/main/)
 * Lập lịch
   * [usausa/hosted-service-extension](https://github.com/usausa/hosted-service-extension  )
   * QuartzNet
