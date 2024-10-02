@@ -47,6 +47,7 @@ __Thư viện .NET__
   * [json-2-sql-query-dotnet](https://github.com/ali33/json-2-sql-query-dotnet): Convert từ Json sang chuỗi Query SQL
   * [json2sql](https://github.com/mohdnazir/json2sql): Convert từ Json sang script tạo bảng và chèn dữ liệu
   * [ExpressionBuilder](https://github.com/dbelmont/ExpressionBuilder)
+  * [code-flu/online-json-to-sql-converter](https://github.com/code-flu/online-json-to-sql-converter): Upload JSON and select as SQL Query
 * Shipping & Delivery
   * [Spoleto.Delivery](https://github.com/spoleto-software/Spoleto.Delivery): Giao diện mẫu lập trình cho dịch vụ vận chuyển
 * Config:
