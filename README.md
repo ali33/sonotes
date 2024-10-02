@@ -44,6 +44,8 @@ __Thư viện .NET__
   * [ExtCore/ExtCore](https://github.com/ExtCore/ExtCore):ExtCore is free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core
 * Build Script
   * [CSScript](https://github.com/oleg-shilo/cs-script/): Công cụ build CS file
+  * [json-2-sql-query-dotnet](https://github.com/ali33/json-2-sql-query-dotnet): Convert từ Json sang chuỗi Query SQL
+  * [json2sql](https://github.com/mohdnazir/json2sql): Convert từ Json sang script tạo bảng và chèn dữ liệu
 * Shipping & Delivery
   * [Spoleto.Delivery](https://github.com/spoleto-software/Spoleto.Delivery): Giao diện mẫu lập trình cho dịch vụ vận chuyển
 * Config:
