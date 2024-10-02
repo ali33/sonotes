@@ -46,6 +46,7 @@ __Thư viện .NET__
   * [CSScript](https://github.com/oleg-shilo/cs-script/): Công cụ build CS file
   * [json-2-sql-query-dotnet](https://github.com/ali33/json-2-sql-query-dotnet): Convert từ Json sang chuỗi Query SQL
   * [json2sql](https://github.com/mohdnazir/json2sql): Convert từ Json sang script tạo bảng và chèn dữ liệu
+  * [ExpressionBuilder](https://github.com/dbelmont/ExpressionBuilder)
 * Shipping & Delivery
   * [Spoleto.Delivery](https://github.com/spoleto-software/Spoleto.Delivery): Giao diện mẫu lập trình cho dịch vụ vận chuyển
 * Config:
