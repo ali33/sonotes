@@ -53,7 +53,8 @@ __Thư viện .NET__
   * [Spoleto.Delivery](https://github.com/spoleto-software/Spoleto.Delivery): Giao diện mẫu lập trình cho dịch vụ vận chuyển
 * Config:
   * [TOML](https://toml.io/en/): A config file format for humans.
-
+* Price & Competitor
+  * [changedetection.io](https://github.com/ali33/changedetection.io): Phần mềm soi giá
 __Quy trình__
 * [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core): Workflow Core is a light weight embeddable workflow engine targeting .NET Standard
 * [besley/Slickflow](https://github.com/besley/Slickflow): Quản lý & Edit quy trình BPMN
