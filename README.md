@@ -56,6 +56,7 @@ __Thư viện .NET__
   * [TOML](https://toml.io/en/): A config file format for humans.
 * Price & Competitor
   * [changedetection.io](https://github.com/ali33/changedetection.io): Phần mềm soi giá
+* [Roaring.Net](https://github.com/k-wojcik/Roaring.Net): Thư viện xử lý BitSets
 __Quy trình__
 * [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core): Workflow Core is a light weight embeddable workflow engine targeting .NET Standard
 * [besley/Slickflow](https://github.com/besley/Slickflow): Quản lý & Edit quy trình BPMN
