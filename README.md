@@ -10,6 +10,7 @@ __Thư viện .NET__
 * Distributed - Phân tán
   * [madelson/DistributedLock](https://github.com/madelson/DistributedLock)
   * [MassTransit](https://github.com/MassTransit/MassTransit)
+  * [RobThree/IdGen](https://github.com/RobThree/IdGen)
 chia sẻ
 * Tập hợp các thư viện hay cho dotNET
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
