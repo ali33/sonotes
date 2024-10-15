@@ -8,9 +8,10 @@ __Thư viện .NET__
 * [dotnetchina](https://gitee.com/dotnetchina): Một số thư viện dotNET của China
 * [justinstenning/SharedMemory](https://github.com/justinstenning/SharedMemory) or [ZeroPlusCoders/SharedMemory](https://github.com/ZeroPlusCoders/SharedMemory) : Bộ nhớ
 * Distributed - Phân tán
-  * [madelson/DistributedLock](https://github.com/madelson/DistributedLock)
-  * [MassTransit](https://github.com/MassTransit/MassTransit)
-  * [RobThree/IdGen](https://github.com/RobThree/IdGen)
+  * [madelson/DistributedLock](https://github.com/madelson/DistributedLock): Lock tránh xung đột
+  * [MassTransit](https://github.com/MassTransit/MassTransit): Message Queue
+  * [RobThree/IdGen](https://github.com/RobThree/IdGen): Sinh Id 64 bit
+    
 chia sẻ
 * Tập hợp các thư viện hay cho dotNET
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
