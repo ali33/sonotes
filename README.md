@@ -74,6 +74,10 @@ __Quy trình__
 * Dùng cho đặc tả luồng xử lý: [BPMN (Business Process Modeling Notation) và sự lợi hại của nó](https://thinhnotes.com/chuyen-nghe-ba/bpmn-va-su-loi-hai-cua-no/)
 * [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline): Tập hợp Frameworks và Thư viện về Workflow
 * [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core): Elsa is a powerful workflow library that enables workflow execution within any .NET application 
+
+__Viết tài liệu hướng dẫn__
+* [mkdocs](https://squidfunk.github.io/mkdocs-material/creating-your-site/): Python Markdow to HTML
+
 __Ảo hóa và Cloud__
 
 __Javascript__
