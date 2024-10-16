@@ -60,6 +60,9 @@ chia sẻ
   * [Spoleto.Delivery](https://github.com/spoleto-software/Spoleto.Delivery): Giao diện mẫu lập trình cho dịch vụ vận chuyển
 * Config:
   * [TOML](https://toml.io/en/): A config file format for humans.
+* File System:
+  * [xoofx/zio](https://github.com/xoofx/zio): Thiết kế giao diện lập trình cho nhiều hệ thống FS
+  * [SharpGrip/FileSystem](https://github.com/SharpGrip/FileSystem): FS hỗ trợ nhiều loại Network Storage: FTP, SFTP, Google Storage
 * Price & Competitor
   * [changedetection.io](https://github.com/ali33/changedetection.io): Phần mềm soi giá
 * [Roaring.Net](https://github.com/k-wojcik/Roaring.Net): Thư viện xử lý BitSets
