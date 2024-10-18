@@ -15,6 +15,7 @@ __Thư viện .NET__
   * [victor-wiki/DatabaseManager](https://github.com/victor-wiki/DatabaseManager): Phần mềm quản lý DB
   * [JoshClose/FluentDatabase](https://github.com/JoshClose/FluentDatabase): Viết 1 code tạo các bảng cho nhiều loại CSDL
   * [Mimetis/Dotmim.Sync](https://github.com/Mimetis/Dotmim.Sync): Đồng bộ dữ liệu giữa các loại DB với nhau
+  * MessagePack: Giống Json nhưng siêu nhanh và siêu nhẹ
 chia sẻ
 * Tập hợp các thư viện hay cho dotNET
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
