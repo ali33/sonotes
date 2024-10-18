@@ -13,6 +13,7 @@ __Thư viện .NET__
   * [RobThree/IdGen](https://github.com/RobThree/IdGen): Sinh Id 64 bit
 * Database - DB:
   * [victor-wiki/DatabaseManager](https://github.com/victor-wiki/DatabaseManager): Phần mềm quản lý DB
+  * [JoshClose/FluentDatabase](https://github.com/JoshClose/FluentDatabase): Viết 1 code tạo các bảng cho nhiều loại CSDL
 chia sẻ
 * Tập hợp các thư viện hay cho dotNET
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
