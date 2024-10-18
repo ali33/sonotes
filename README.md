@@ -160,8 +160,9 @@ __Linh tinh__
 * Proxy:
   * [Lozy/danted](https://github.com/Lozy/danted/tree/master)
   * [saaiful/socks5](https://github.com/saaiful/socks5)
-
-__Data Mining__
+ 
+__Data Mining & Reporting__
+* [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report): Thiết kế report và ETL
 * [Etl.Net](https://paillave.github.io/Etl.Net/)
 * [Apache Superset](https://medium.com/free-or-open-source-software/how-to-install-apache-superset-in-windows-subsystem-for-linux-ubuntu-20-04-os-f198eafd11fa) 
 * [Cách cài đặt superset từ source code](https://hackernoon.com/a-better-guide-to-build-apache-superset-from-source-6f2ki32n0)
