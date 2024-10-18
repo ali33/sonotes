@@ -11,7 +11,8 @@ __Thư viện .NET__
   * [madelson/DistributedLock](https://github.com/madelson/DistributedLock): Lock tránh xung đột
   * [MassTransit](https://github.com/MassTransit/MassTransit): Message Queue
   * [RobThree/IdGen](https://github.com/RobThree/IdGen): Sinh Id 64 bit
-    
+* Database - DB:
+  * [victor-wiki/DatabaseManager](https://github.com/victor-wiki/DatabaseManager): Phần mềm quản lý DB
 chia sẻ
 * Tập hợp các thư viện hay cho dotNET
   * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
