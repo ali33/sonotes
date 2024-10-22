@@ -82,9 +82,16 @@ __Quy trình__
 * [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline): Tập hợp Frameworks và Thư viện về Workflow
 * [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core): Elsa is a powerful workflow library that enables workflow execution within any .NET application 
 
+__Tự động hóa theo Rule__
+* [drools](https://www.drools.org/): một công cụ quản lý quy tắc kinh doanh rất mạnh mẽ và linh hoạt
+* [NRules](https://github.com/NRules): Business Rules Engine (BRE) mã nguồn mở dành cho .NET, cung cấp khả năng quản lý và thực thi các quy tắc kinh doanh giống như Drools
+* [RulesEngine](https://github.com/microsoft/RulesEngine): Nguồn mở do Microsoft phát triển
+* [Drools.NET](https://www.codeproject.com/Articles/29165/Getting-Started-with-Drools-NET): Phiên bản chuyển thể từ Drools (Java) sang nền tảng .NET
+  
 __Viết tài liệu hướng dẫn__
 * [mkdocs](https://squidfunk.github.io/mkdocs-material/creating-your-site/): Python Markdow to HTML
 * [mkdocs-material](https://squidfunk.github.io/mkdocs-material/getting-started/)
+  
 __Ảo hóa và Cloud__
 
 __Javascript__
