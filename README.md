@@ -28,6 +28,12 @@ __Thư viện .NET__
   * [Hangfire](https://www.hangfire.io/) - Thư viện giúp quản lý công việc nền và cung cấp cơ chế kiểm soát số lượng công việc đồng thời để tránh chạy trùng lặp.
 
 * Database - DB:
+   * DB Engine
+      - [LiteDB](https://github.com/mbdavid/LiteDB) - Cơ sở dữ liệu NoSQL nhúng viết thuần bằng C# hỗ trợ giao diện truy vấn tương tự SQL, phù hợp cho ứng dụng nhỏ và desktop.
+      - [ManagedEsent](https://github.com/microsoft/ManagedEsent) - Thư viện .NET wrapper cho ESENT, cơ sở dữ liệu nhúng từ Microsoft, cung cấp API truy vấn nâng cao.
+      - [FileDb](https://github.com/ahuja4/FileDb) - Cơ sở dữ liệu đơn giản viết bằng C#, không cần máy chủ, phù hợp cho các ứng dụng nhỏ và nhúng.
+      - [RaptorDB](https://github.com/mujtaba1/RaptorDB) - Cơ sở dữ liệu dạng document, hỗ trợ giao diện truy vấn tương tự SQL, viết thuần bằng C#, dễ tích hợp cho các dự án .NET nhỏ.
+    - **SharpDB** - Cơ sở dữ liệu nhẹ viết bằng C#, không cần máy chủ, phù hợp với ứng dụng nhỏ yêu cầu lưu trữ đơn giản (không có link chính thức). 
   * [victor-wiki/DatabaseManager](https://github.com/victor-wiki/DatabaseManager): Phần mềm quản lý DB
   * [JoshClose/FluentDatabase](https://github.com/JoshClose/FluentDatabase): Viết 1 code tạo các bảng cho nhiều loại CSDL
   * [Mimetis/Dotmim.Sync](https://github.com/Mimetis/Dotmim.Sync): Đồng bộ dữ liệu giữa các loại DB với nhau
