@@ -6,11 +6,27 @@ __Thư viện .NET__
 * [sharding-core](https://xuejmnet.github.io/sharding-core-doc/en/guide/params-confg/): Phân mảnh dữ liệu
 * [Fody/MethodTimer](https://github.com/Fody/MethodTimer): Đo thời gian thực thi của Method
 * [dotnetchina](https://gitee.com/dotnetchina): Một số thư viện dotNET của China
+  - [ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway) - Nền tảng IoT dựa trên .NET8, hỗ trợ thu thập dữ liệu từ PLC và các giao thức khác.
+  - [weaving-socket](https://gitee.com/dotnetchina/weaving-socket) - Thư viện socket hỗ trợ .NET và Unity, dùng trong IoT và web.
+  - [NanUI](https://gitee.com/dotnetchina/NanUI) - Xây dựng giao diện Windows Forms bằng HTML5/CSS3 cho .NET.
+  - [MiniExcel](https://gitee.com/dotnetchina/MiniExcel) - Công cụ xử lý Excel đơn giản và hiệu quả trong .NET.
+  - [SqlSugar ORM](https://gitee.com/dotnetchina/SqlSugar) - ORM hỗ trợ nhiều loại cơ sở dữ liệu và cú pháp mạnh mẽ.
+  - [OpenAuth.Net](https://gitee.com/dotnetchina/OpenAuth.Net) - Khung phát triển nhanh với quản lý quyền và quy trình công việc cho .NET.
 * [justinstenning/SharedMemory](https://github.com/justinstenning/SharedMemory) or [ZeroPlusCoders/SharedMemory](https://github.com/ZeroPlusCoders/SharedMemory) : Bộ nhớ
+* [Polly](https://github.com/App-vNext/Polly) - Thư viện mạnh mẽ cho phép triển khai các chiến lược xử lý lỗi, như retry, circuit-breaker, timeout và bulkhead isolation cho ứng dụng .NET.
+* [MediatR](https://github.com/jbogard/MediatR) - Thư viện triển khai mẫu Mediator Pattern cho .NET, giúp xử lý các yêu cầu và thông báo một cách rõ ràng và tách biệt.
+* [NServiceBus](https://particular.net/nservicebus) - Thư viện hỗ trợ xử lý message và sự kiện cho các hệ thống phân tán, giúp xây dựng các dịch vụ kết nối với nhau một cách bền vững và linh hoạt.
 * Distributed - Phân tán
   * [madelson/DistributedLock](https://github.com/madelson/DistributedLock): Lock tránh xung đột
   * [MassTransit](https://github.com/MassTransit/MassTransit): Message Queue
   * [RobThree/IdGen](https://github.com/RobThree/IdGen): Sinh Id 64 bit
+  * [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - Thư viện hỗ trợ các công cụ đồng bộ hóa trong lập trình bất đồng bộ như `AsyncLock` và `AsyncSemaphore`.
+  * [Medallion.Threading](https://github.com/madelson/MedallionThreading) - Thư viện cung cấp các cơ chế đồng bộ hóa và khóa phân tán với hỗ trợ backend như SQL Server, Redis.
+  * [SemaphoreSlim (Microsoft Documentation)](https://learn.microsoft.com/en-us/dotnet/api/system.threading.semaphoreslim) - Lớp hỗ trợ đồng bộ hóa tích hợp trong .NET 
+  * Framework để hạn chế số lượng tiến trình đồng thời.
+  * [RedLock.net](https://github.com/samcook/RedLock.net) - Thư viện triển khai thuật toán Redlock của Redis, cung cấp giải pháp khóa phân tán mạnh mẽ giữa các tiến trình và máy chủ.
+  * [Hangfire](https://www.hangfire.io/) - Thư viện giúp quản lý công việc nền và cung cấp cơ chế kiểm soát số lượng công việc đồng thời để tránh chạy trùng lặp.
+
 * Database - DB:
   * [victor-wiki/DatabaseManager](https://github.com/victor-wiki/DatabaseManager): Phần mềm quản lý DB
   * [JoshClose/FluentDatabase](https://github.com/JoshClose/FluentDatabase): Viết 1 code tạo các bảng cho nhiều loại CSDL
