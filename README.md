@@ -214,7 +214,7 @@ __Git__
 There are plenty of such equivalents, and more are emerging every day:
 
 here are list of cms systems from [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net") (legacy aspx wenforms engine):
-
+*   [Statiq.Web](https://github.com/statiqdev/Statiq.Web): Tạo Website tĩnh
 *   [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation "github.com") - A web CMS that focus on UX and adaptability
 *   [mojoPortal](https://github.com/i7media/mojoportal "github.com") \- MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# [ASP.NET | Open-source web framework for .NET](http://asp.net/ "asp.net")
 *   [N2CMS](https://github.com/n2cms/n2cms "github.com") - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
