@@ -33,6 +33,7 @@ __Thư viện .NET__
       - [ManagedEsent](https://github.com/microsoft/ManagedEsent) - Thư viện .NET wrapper cho ESENT, cơ sở dữ liệu nhúng từ Microsoft, cung cấp API truy vấn nâng cao.
       - [FileDb](https://github.com/ahuja4/FileDb) - Cơ sở dữ liệu đơn giản viết bằng C#, không cần máy chủ, phù hợp cho các ứng dụng nhỏ và nhúng.
       - [RaptorDB](https://github.com/mujtaba1/RaptorDB) - Cơ sở dữ liệu dạng document, hỗ trợ giao diện truy vấn tương tự SQL, viết thuần bằng C#, dễ tích hợp cho các dự án .NET nhỏ.
+      - [go-mysql-server](https://github.com/src-d/go-mysql-server): Máy chủ nhái MySQL viết bằng Go
     - **SharpDB** - Cơ sở dữ liệu nhẹ viết bằng C#, không cần máy chủ, phù hợp với ứng dụng nhỏ yêu cầu lưu trữ đơn giản (không có link chính thức). 
   * [victor-wiki/DatabaseManager](https://github.com/victor-wiki/DatabaseManager): Phần mềm quản lý DB
   * [JoshClose/FluentDatabase](https://github.com/JoshClose/FluentDatabase): Viết 1 code tạo các bảng cho nhiều loại CSDL
