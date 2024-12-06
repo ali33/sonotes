@@ -108,7 +108,7 @@ __Quy trình__
 * Dùng cho đặc tả luồng xử lý: [BPMN (Business Process Modeling Notation) và sự lợi hại của nó](https://thinhnotes.com/chuyen-nghe-ba/bpmn-va-su-loi-hai-cua-no/)
 * [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline): Tập hợp Frameworks và Thư viện về Workflow
 * [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core): Elsa is a powerful workflow library that enables workflow execution within any .NET application 
-
+* [aelassas/wexflow](https://github.com/aelassas/wexflow): Wexflow provides 100+ activities for different kind of tasks and allows custom integration with other solutions
 __Tự động hóa theo Rule__
 * [drools](https://www.drools.org/): một công cụ quản lý quy tắc kinh doanh rất mạnh mẽ và linh hoạt
 * [NRules](https://github.com/NRules): Business Rules Engine (BRE) mã nguồn mở dành cho .NET, cung cấp khả năng quản lý và thực thi các quy tắc kinh doanh giống như Drools
