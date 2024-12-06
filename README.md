@@ -109,6 +109,8 @@ __Quy trình__
 * [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline): Tập hợp Frameworks và Thư viện về Workflow
 * [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core): Elsa is a powerful workflow library that enables workflow execution within any .NET application 
 * [aelassas/wexflow](https://github.com/aelassas/wexflow): Wexflow provides 100+ activities for different kind of tasks and allows custom integration with other solutions
+* [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core): Lâp trình Task theo quy trình
+* [dotnet-state-machine/stateless](https://github.com/dotnet-state-machine/stateless/tree/dev): Lập trình trạng thái
 __Tự động hóa theo Rule__
 * [drools](https://www.drools.org/): một công cụ quản lý quy tắc kinh doanh rất mạnh mẽ và linh hoạt
 * [NRules](https://github.com/NRules): Business Rules Engine (BRE) mã nguồn mở dành cho .NET, cung cấp khả năng quản lý và thực thi các quy tắc kinh doanh giống như Drools
